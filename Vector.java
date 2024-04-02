@@ -1,18 +1,12 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
+
 
 package com.mycompany.vector;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
-import java.util.List;
 
-/**
- *
- * @author Josue
- */
+
+
 public class Vector {
 
     public static void main(String[] args) {
